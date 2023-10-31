@@ -1,6 +1,6 @@
-# Creation-Of-An-Application-For-School-Management-using-Salesforce
+# Creation Of An Application For School Management using Salesforce
 
-__Team Members(Team ID: NM2023TMID07400):__*  
+__Team Members(Team ID: NM2023TMID07400):__  
 
 
 Anson Antony S  - 962820114006  
